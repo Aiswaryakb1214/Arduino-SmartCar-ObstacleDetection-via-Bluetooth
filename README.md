@@ -45,6 +45,3 @@ the motors stop automatically, a **buzzer alarm** is triggered, and a warning me
      - LCD displays **"OBSTACLE HERE!!"**
    - If distance ≥ 100 cm → car moves normally.
 
----
-
-## 📂 Project Structure
